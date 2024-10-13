@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mahinfah/mahinfah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/mahinfah/mahinfah/output/snake.svg" width = 1500 alt="Snake animation" />
