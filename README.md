@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Vamos</h1>
 <h3 align="center">Studying BSc in Computer Science and Engineering</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/En1y.gif">
+<img align="right" alt="Coding" width="400" src="https://unsplash.com/photos/selective-focus-photography-of-brown-hamster-adK3Vu70DEQ">
 
 
 
